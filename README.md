@@ -1,4 +1,5 @@
 ## work in progress
+<img width="540" height="282" alt="download" src="https://github.com/user-attachments/assets/ffbfc3b5-9ed2-4768-8101-b6d273e678dd" />
 
 <!--
 **starlorb/starlorb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
